@@ -20,7 +20,7 @@ console.log("3. After setTimeout");
 2. Inside setTimeout */
 /* setTimeout  */
 
-/* new year countdown with setTimeout */
+/* new year countdown with setTimeout, callback hell pattern */
 console.log("3…");
 
 setTimeout(() => {
