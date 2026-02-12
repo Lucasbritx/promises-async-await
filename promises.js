@@ -29,8 +29,9 @@ fulfilled: completed
 rejected: error
 */
 
-fetch('/api/get-data')
-  .then((response) => {
-    console.log(response);
-    // Response { type: 'basic', status: 200, ...}
-  });
+fetch("/api/get-data").then((response) => {
+  console.log(response);
+  // Response { type: 'basic', status: 200, ...}
+});
+
+// creating promises -> https://www.joshwcomeau.com/javascript/promises/#creating-our-own-promises-5
