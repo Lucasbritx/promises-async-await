@@ -28,3 +28,9 @@ pending: WIP
 fulfilled: completed
 rejected: error
 */
+
+fetch('/api/get-data')
+  .then((response) => {
+    console.log(response);
+    // Response { type: 'basic', status: 200, ...}
+  });
