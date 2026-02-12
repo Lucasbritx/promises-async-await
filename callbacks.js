@@ -18,3 +18,25 @@ console.log("3. After setTimeout");
 /* output: 1. Before setTimeout
 3. After setTimeout
 2. Inside setTimeout */
+/* setTimeout  */
+
+/* new year countdown with setTimeout */
+console.log("3…");
+
+setTimeout(() => {
+  console.log("2…");
+
+  setTimeout(() => {
+    console.log("1…");
+
+    setTimeout(() => {
+      console.log("Happy New Year!!");
+    }, 1000);
+  }, 1000);
+}, 1000);
+/* output:
+3…
+2…
+1…
+Happy New Year!!
+ */
