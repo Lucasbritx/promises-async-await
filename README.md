@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_
 
 https://consolelog.com.br/promise-javascript/#google_vignette
 
-https://www.joshwcomeau.com/javascript/promises/
+~~https://www.joshwcomeau.com/javascript/promises/~~
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise
 
